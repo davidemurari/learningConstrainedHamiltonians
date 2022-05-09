@@ -2,6 +2,8 @@
 
 This repository collects the Notebooks written for the numerical experiments of the paper: https://arxiv.org/abs/2201.13254
 
+The paper has been presented in a seminar here : http://y2u.be/tAIGUkXp-Ck
+
 The Notebooks are divided into codes for Constrained and Unconstrained systems.
 
 #### Experiment with unconstrained 4-dimensional system
