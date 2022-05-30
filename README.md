@@ -20,4 +20,4 @@ In the notebook chainOfSphericalPendulums.ipynb we train a network to approximat
 
 #### Parameter study for spherical pendulum
 
-In the notebook comparisonsParametersSection4.ipynb and the associated collected dataset of experiments CollectedData.csv there are the plots and tables for the parameter study reported in the paper. An alternative way to interact with the dataset is to go at the associated website [Parameter study](https://davidemurari.github.io/testGithubPages/)
+In the notebook comparisonsParametersSection4.ipynb and the associated collected dataset of experiments CollectedData.csv there are the plots and tables for the parameter study reported in the paper. An alternative way to interact with the dataset is to go at the associated website [Parameter study](https://davidemurari.github.io/learningConstrainedHamiltonians/)
