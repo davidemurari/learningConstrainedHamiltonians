@@ -24,9 +24,10 @@ In the notebook comparisonsParametersSection4.ipynb and the associated collected
 
 
 To cite the paper use
-> @article{celledoni2022learning,
-> title={Learning Hamiltonians of constrained mechanical systems},
-> author={Celledoni, Elena and Leone, Andrea and Murari, Davide and Owren, Brynjulf},
-> journal={arXiv preprint arXiv:2201.13254},
->  year={2022}
->}
+
+@article{celledoni2022learning,
+title={Learning Hamiltonians of constrained mechanical systems},
+author={Celledoni, Elena and Leone, Andrea and Murari, Davide and Owren, Brynjulf},
+journal={arXiv preprint arXiv:2201.13254},
+year={2022}
+}
