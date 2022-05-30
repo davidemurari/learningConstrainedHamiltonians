@@ -8,5 +8,4 @@
  {% include_relative ThresholdFull.html %}
 
 ## Plot based on the median over the 5 experiments
-
- {% include_relative ThresholdMedians.html %}
+{% include_relative ThresholdMedians.html %}
