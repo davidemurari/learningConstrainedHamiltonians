@@ -1,6 +1,6 @@
 # Learning Hamiltonians of constrained mechanical systems
 
-This repository collects the Notebooks written for the numerical experiments of the paper: [Arxiv Preprint](https://arxiv.org/abs/2201.13254)
+This repository collects the Notebooks written for the numerical experiments of the paper: [Paper on JCAM](https://doi.org/10.1016/j.cam.2022.114608)
 
 The paper has been presented in a seminar here : [Seminar](http://y2u.be/tAIGUkXp-Ck)
 
@@ -25,9 +25,13 @@ In the notebook comparisonsParametersSection4.ipynb and the associated collected
 
 To cite the paper use
 
->@article{celledoni2022learning,  
->title={Learning Hamiltonians of constrained mechanical systems},  
->author={Celledoni, Elena and Leone, Andrea and Murari, Davide and Owren, Brynjulf},  
->journal={arXiv preprint arXiv:2201.13254},  
->year={2022}  
->}
+>@article{CELLEDONI2023114608,
+>title = {Learning Hamiltonians of constrained mechanical systems},
+>journal = {Journal of Computational and Applied Mathematics},
+>volume = {417},
+>pages = {114608},
+>year = {2023},
+>issn = {0377-0427},
+>doi = {https://doi.org/10.1016/j.cam.2022.114608},
+>url = {https://www.sciencedirect.com/science/article/pii/S037704272200303X}
+}
