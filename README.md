@@ -1,5 +1,7 @@
 # Interactive parallel coordinates plots for parameter study
 
+Works best on Desktop, not easy to use on Mobile.
+
 ## Plot with all the 5 experiments and colored based on the integrator
  {% include_relative IntegratorColoring.html %}
 
